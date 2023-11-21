@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "SENTRI",
     "version": "1.0",
-    "description": " c=========3 ",
+    "description": " SENTRI: A web extension that aims to detect malicious links/URL protecting users financial and personal informatio",
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
